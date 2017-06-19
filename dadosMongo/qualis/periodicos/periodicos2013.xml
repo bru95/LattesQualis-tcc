@@ -1,0 +1,3198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<periodicos2013 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<periodico>
+		<ISSN>2212-6716</ISSN>
+		<titulo>AASRI Procedia</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0360-0300</ISSN>
+		<titulo>ACM Computing Surveys</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1523-2867</ISSN>
+		<titulo>ACM SIGPLAN Notices</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1073-0516</ISSN>
+		<titulo>ACM Transactions on Computer-Human Interaction</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1084-4309</ISSN>
+		<titulo>ACM Transactions on Design Automation of Electronic Systems</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1539-9087</ISSN>
+		<titulo>ACM Transactions on Embedded Computing Systems</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0730-0301</ISSN>
+		<titulo>ACM Transactions on Graphics</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2157-6904</ISSN>
+		<titulo>ACM Transactions on Intelligent Systems and Technology</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1556-4681</ISSN>
+		<titulo>ACM Transactions on Knowledge Discovery from Data</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1049-3301</ISSN>
+		<titulo>ACM Transactions on Modeling and Computer Simulation</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0164-0925</ISSN>
+		<titulo>ACM Transactions on Programming Languages and Systems</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1550-4859</ISSN>
+		<titulo>ACM Transactions on Sensor Networks</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0001-5970</ISSN>
+		<titulo>Acta Mechanica</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1755-375X</ISSN>
+		<titulo>Acta Ophthalmologica (2008. Print)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1679-9216</ISSN>
+		<titulo>Acta Scientiae Veterinariae (Online)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1807-8664</ISSN>
+		<titulo>Acta Scientiarum. Technology (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0001-706X</ISSN>
+		<titulo>Acta Tropica</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1570-8705</ISSN>
+		<titulo>Ad Hoc Networks</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1355-6215</ISSN>
+		<titulo>Addiction Biology (Print)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2164-6627</ISSN>
+		<titulo>Advanced Science, Engineering and Medicine</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0001-8708</ISSN>
+		<titulo>Advances in Mathematics (New York. 1965)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0065-3438</ISSN>
+		<titulo>Advances in the Astronautical Sciences</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1981-0997</ISSN>
+		<titulo>Agrária (Recife. Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0178-4617</ISSN>
+		<titulo>Algorithmica</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0925-1030</ISSN>
+		<titulo>Analog Integrated Circuits and Signal Processing</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0090-6964</ISSN>
+		<titulo>Annals of Biomedical Engineering</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0250-6807</ISSN>
+		<titulo>Annals of Nutrition &amp; Metabolism</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0254-5330</ISSN>
+		<titulo>Annals of Operation Research</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1699-8111</ISSN>
+		<titulo>Anuario Asia-Pacífico</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1432-0622</ISSN>
+		<titulo>Applicable algebra in engineering, communication and computing (Internet)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0883-9514</ISSN>
+		<titulo>Applied Artificial Intelligence</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1350-4851</ISSN>
+		<titulo>Applied Economics Letters (Print)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0003-6870</ISSN>
+		<titulo>Applied Ergonomics</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0924-669X</ISSN>
+		<titulo>Applied Intelligence (Boston)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0307-904X</ISSN>
+		<titulo>Applied Mathematical Modelling</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0096-3003</ISSN>
+		<titulo>Applied Mathematics and Computation</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1660-9336</ISSN>
+		<titulo>Applied Mechanics and Materials</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1568-4946</ISSN>
+		<titulo>Applied Soft Computing (Print)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0003-7028</ISSN>
+		<titulo>Applied Spectroscopy</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0003-9861</ISSN>
+		<titulo>Archives of Biochemistry and Biophysics (Print)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0167-4943</ISSN>
+		<titulo>Archives of Gerontology and Geriatrics</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0066-782X</ISSN>
+		<titulo>Arquivos Brasileiros de Cardiologia (Impresso)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0381-7032</ISSN>
+		<titulo>Ars Combinatoria</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0004-3702</ISSN>
+		<titulo>Artificial Intelligence (General Ed.)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0269-2821</ISSN>
+		<titulo>Artificial Intelligence Review</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0933-3657</ISSN>
+		<titulo>Artificial Intelligence in Medicine (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1064-5462</ISSN>
+		<titulo>Artificial Life</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0021-9150</ISSN>
+		<titulo>Atherosclerosis (Amsterdam)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0928-8910</ISSN>
+		<titulo>Automated Software Engineering</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1471-2105</ISSN>
+		<titulo>BMC Bioinformatics</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1471-2121</ISSN>
+		<titulo>BMC Cell Biology (Online)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1471-2164</ISSN>
+		<titulo>BMC Genomics</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1471-2180</ISSN>
+		<titulo>BMC Microbiology (Online)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1756-0500</ISSN>
+		<titulo>BMC Research Notes</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2314-6133</ISSN>
+		<titulo>BioMed Research International</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0197-8462</ISSN>
+		<titulo>Bioelectromagnetics</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1367-4803</ISSN>
+		<titulo>Bioinformatics (Oxford. Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0323-3847</ISSN>
+		<titulo>Biometrical Journal (1977)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0103-636X</ISSN>
+		<titulo>Bolema. Boletim de Educação Matemática (UNESP. Rio Claro. Impresso)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1518-9082</ISSN>
+		<titulo>Boletim Técnico da Faculdade de Tecnologia de São Paulo</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1982-2170</ISSN>
+		<titulo>Boletim de Ciências Geodésicas (Online)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1863-2653</ISSN>
+		<titulo>Brain Structure &amp; Function (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1516-8913</ISSN>
+		<titulo>Brazilian Archives of Biology and Technology (Impresso)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0103-0752</ISSN>
+		<titulo>Brazilian Journal of Probability and Statistics</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1806-8324</ISSN>
+		<titulo>Brazilian Oral Research (Impresso)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0102-3543</ISSN>
+		<titulo>C&amp;T. Revista Militar de Ciência e Tecnologia</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2238-9032</ISSN>
+		<titulo>CIPPUS - Revista de Iniciação Científica da UNILASALLE</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0717-5000</ISSN>
+		<titulo>CLEI Electronic Journal</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1519-132X</ISSN>
+		<titulo>Cadernos de Informática (UFRGS)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2178-2229</ISSN>
+		<titulo>Cadernos de Pesquisa</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0102-311X</ISSN>
+		<titulo>Cadernos de Saúde Pública (ENSP. Impresso)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1413-9014</ISSN>
+		<titulo>Cadernos do IME. Série Informática</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1896-1533</ISSN>
+		<titulo>Central European Journal of Computer Science</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1895-1082</ISSN>
+		<titulo>Central European Journal of Physics (Print)</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1974-9791</ISSN>
+		<titulo>Chemical Engineering Transactions</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0718-7912</ISSN>
+		<titulo>Chilean Journal of Statistics</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1982-0801</ISSN>
+		<titulo>Científica Cet-Faesa</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2179-460X</ISSN>
+		<titulo>Ciência e Natura</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1550-0594</ISSN>
+		<titulo>Clinical EEG and Neuroscience</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1386-7857</ISSN>
+		<titulo>Cluster Computing</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1809-6875</ISSN>
+		<titulo>Coffee Science</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2176-9133</ISSN>
+		<titulo>Cogitare Enfermagem</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0963-5483</ISSN>
+		<titulo>Combinatorics, Probability &amp; Computing (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1865-0929</ISSN>
+		<titulo>Communications in Computer and Information Science (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0001-0782</ISSN>
+		<titulo>Communications of the ACM</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0263-8223</ISSN>
+		<titulo>Composite Structures</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1807-0302</ISSN>
+		<titulo>Computational &amp; Applied Mathematics</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0926-6003</ISSN>
+		<titulo>Computational Optimization and Applications</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0167-9473</ISSN>
+		<titulo>Computational Statistics &amp; Data Analysis (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0943-4062</ISSN>
+		<titulo>Computational Statistics (Zeitschrift)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1940-2503</ISSN>
+		<titulo>Computational Thermal Sciences</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2238-3603</ISSN>
+		<titulo>Computational and Applied Mathematics</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0018-9162</ISSN>
+		<titulo>Computer (Long Beach, Calif. Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0167-8396</ISSN>
+		<titulo>Computer Aided Geometric Design</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0163-5964</ISSN>
+		<titulo>Computer Architecture News</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0146-4833</ISSN>
+		<titulo>Computer Communication Review</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0140-3664</ISSN>
+		<titulo>Computer Communications</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0167-7055</ISSN>
+		<titulo>Computer Graphics Forum (Print)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1477-8424</ISSN>
+		<titulo>Computer Languages, Systems &amp; Structures</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0169-2607</ISSN>
+		<titulo>Computer Methods and Programs in Biomedicine (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0045-7825</ISSN>
+		<titulo>Computer Methods in Applied Mechanics and Engineering</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1526-1492</ISSN>
+		<titulo>Computer Modeling in Engineering &amp; Sciences (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1389-1286</ISSN>
+		<titulo>Computer Networks (1999)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0010-4655</ISSN>
+		<titulo>Computer Physics Communications</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0885-2308</ISSN>
+		<titulo>Computer Speech &amp; Language (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0920-5489</ISSN>
+		<titulo>Computer Standards &amp; Interfaces</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0925-9724</ISSN>
+		<titulo>Computer Supported Cooperative Work</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1934-7332</ISSN>
+		<titulo>Computer Technology and Application</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1077-3142</ISSN>
+		<titulo>Computer Vision and Image Understanding (Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0895-6111</ISSN>
+		<titulo>Computerized Medical Imaging and Graphics</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0098-1354</ISSN>
+		<titulo>Computers &amp; Chemical Engineering</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0045-7906</ISSN>
+		<titulo>Computers &amp; Electrical Engineering</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0045-7930</ISSN>
+		<titulo>Computers &amp; Fluids</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0098-3004</ISSN>
+		<titulo>Computers &amp; Geosciences</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0097-8493</ISSN>
+		<titulo>Computers &amp; Graphics</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0360-8352</ISSN>
+		<titulo>Computers &amp; Industrial Engineering</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0898-1221</ISSN>
+		<titulo>Computers &amp; Mathematics with Applications (1987)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0305-0548</ISSN>
+		<titulo>Computers &amp; Operations Research</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0360-1315</ISSN>
+		<titulo>Computers and Education</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0010-4825</ISSN>
+		<titulo>Computers in Biology and Medicine</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0747-5632</ISSN>
+		<titulo>Computers in Human Behavior</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0166-3615</ISSN>
+		<titulo>Computers in Industry</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0010-485X</ISSN>
+		<titulo>Computing (Wien. Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1335-9150</ISSN>
+		<titulo>Computing and Informatics</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1521-9615</ISSN>
+		<titulo>Computing in Science &amp; Engineering (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1532-0626</ISSN>
+		<titulo>Concurrency and Computation</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0967-0661</ISSN>
+		<titulo>Control Engineering Practice</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0324-8569</ISSN>
+		<titulo>Control and Cybernetics</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1807-0345</ISSN>
+		<titulo>Controle &amp; Automação (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1925-2676</ISSN>
+		<titulo>Cyber Journals: Multidisciplinary Journals in Science and Technology</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0169-023X</ISSN>
+		<titulo>Data &amp; Knowledge Engineering</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1384-5810</ISSN>
+		<titulo>Data Mining and Knowledge Discovery</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1573-756X</ISSN>
+		<titulo>Data Mining and Knowledge Discovery (Dordrecht. Online)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1758-0463</ISSN>
+		<titulo>Database: The Journal of Biological Databases and Curation</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0167-9236</ISSN>
+		<titulo>Decision Support Systems</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1572-8080</ISSN>
+		<titulo>Design Automation For Embedded Systems (Dordrecht. Online)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0929-5585</ISSN>
+		<titulo>Design Automation for Embedded Systems</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0166-218X</ISSN>
+		<titulo>Discrete Applied Mathematics</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0012-365X</ISSN>
+		<titulo>Discrete Mathematics</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1365-8050</ISSN>
+		<titulo>Discrete Mathematics and Theoretical Computer Science (Online)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1687-6180</ISSN>
+		<titulo>EURASIP Journal on Advances in Signal Processing (Online)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2192-4376</ISSN>
+		<titulo>EURO Journal on Transportation and Logistics</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0197-9337</ISSN>
+		<titulo>Earth Surface Processes and Landforms (Print)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1574-9541</ISSN>
+		<titulo>Ecological Informatics (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1436-4522</ISSN>
+		<titulo>Educational Technology &amp; Society</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0378-7796</ISSN>
+		<titulo>Electric Power Systems Research (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0717-3458</ISSN>
+		<titulo>Electronic Journal of Biotechnology</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1571-0653</ISSN>
+		<titulo>Electronic Notes in Discrete Mathematics</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1571-0661</ISSN>
+		<titulo>Electronic Notes in Theoretical Computer Science</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2075-2180</ISSN>
+		<titulo>Electronic Proceedings in Theoretical Computer Science</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0013-5194</ISSN>
+		<titulo>Electronics Letters</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1573-7616</ISSN>
+		<titulo>Empirical Software Engineering (Dordrecht. Online)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1996-1073</ISSN>
+		<titulo>Energies (Basel)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0301-4215</ISSN>
+		<titulo>Energy Policy</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1983-1277</ISSN>
+		<titulo>Engenharia de Software Magazine</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0952-1976</ISSN>
+		<titulo>Engineering Applications of Artificial Intelligence</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1042-9247</ISSN>
+		<titulo>Engineering Management Journal</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1875-9521</ISSN>
+		<titulo>Entertainment Computing</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1364-8152</ISSN>
+		<titulo>Environmental Modelling &amp; Software</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2042-115X</ISSN>
+		<titulo>European Journal of Law and Technology</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0377-2217</ISSN>
+		<titulo>European Journal of Operational Research</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0928-0987</ISSN>
+		<titulo>European Journal of Pharmaceutical Sciences</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1450-216X</ISSN>
+		<titulo>European Journal of Scientific Research</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1434-6036</ISSN>
+		<titulo>European Physical Journal. B, Condensed Matter and Complex Systems (Internet)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1063-6560</ISSN>
+		<titulo>Evolutionary Computation</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0957-4174</ISSN>
+		<titulo>Expert Systems with Applications</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1982-4432</ISSN>
+		<titulo>Extensão em Foco (Curitiba)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1677-0323</ISSN>
+		<titulo>FLF.EDU</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1396-0466</ISSN>
+		<titulo>First Monday (Online)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0363-2415</ISSN>
+		<titulo>Fisheries (Bethesda, Md.)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0955-5986</ISSN>
+		<titulo>Flow Measurement and Instrumentation</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0379-0738</ISSN>
+		<titulo>Forensic Science International</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1433-299X</ISSN>
+		<titulo>Formal Aspects of Computing (Internet)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1664-1078</ISSN>
+		<titulo>Frontiers in Psychology</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0169-2968</ISSN>
+		<titulo>Fundamenta Informaticae</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0167-739X</ISSN>
+		<titulo>Future Generation Computer Systems</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0165-0114</ISSN>
+		<titulo>Fuzzy Sets and Systems</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1984-2430</ISSN>
+		<titulo>GEPROS. Gestão da Produção, Operações e Sistemas (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1676-5680</ISSN>
+		<titulo>Genetics and Molecular Research</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2169-8287</ISSN>
+		<titulo>Genome Announcements</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1991-9603</ISSN>
+		<titulo>Geoscientific Model Development</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0911-0119</ISSN>
+		<titulo>Graphs and Combinatorics</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2190-7188</ISSN>
+		<titulo>Health and Technology</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0262-6667</ISSN>
+		<titulo>Hydrological Sciences Journal</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0163-6804</ISSN>
+		<titulo>IEEE Communications Magazine (Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1553-877X</ISSN>
+		<titulo>IEEE Communications Surveys and Tutorials</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1545-598X</ISSN>
+		<titulo>IEEE Geoscience and Remote Sensing Letters (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1077-260X</ISSN>
+		<titulo>IEEE Journal of Selected Topics in Quantum Electronics</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1932-4553</ISSN>
+		<titulo>IEEE Journal of Selected Topics in Signal Processing</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0733-8716</ISSN>
+		<titulo>IEEE Journal on Selected Areas in Communications (Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1558-7908</ISSN>
+		<titulo>IEEE Multidisciplinary Engineering Education Magazine</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1070-986X</ISSN>
+		<titulo>IEEE Multimedia</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1070-9932</ISSN>
+		<titulo>IEEE Robotics &amp; Automation Magazine</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1540-7993</ISSN>
+		<titulo>IEEE Security &amp; Privacy</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1070-9908</ISSN>
+		<titulo>IEEE Signal Processing Letters</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0740-7459</ISSN>
+		<titulo>IEEE Software</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0018-9286</ISSN>
+		<titulo>IEEE Transactions on Automatic Control (Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0018-9294</ISSN>
+		<titulo>IEEE Transactions on Biomedical Engineering (Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1051-8215</ISSN>
+		<titulo>IEEE Transactions on Circuits and Systems for Video Technology (Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0090-6778</ISSN>
+		<titulo>IEEE Transactions on Communications (Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0018-9340</ISSN>
+		<titulo>IEEE Transactions on Computers (Print)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0098-3063</ISSN>
+		<titulo>IEEE Transactions on Consumer Electronics</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0018-9359</ISSN>
+		<titulo>IEEE Transactions on Education</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1063-6706</ISSN>
+		<titulo>IEEE Transactions on Fuzzy Systems</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0196-2892</ISSN>
+		<titulo>IEEE Transactions on Geoscience and Remote Sensing</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1057-7149</ISSN>
+		<titulo>IEEE Transactions on Image Processing</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0278-0046</ISSN>
+		<titulo>IEEE Transactions on Industrial Electronics (1982. Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1551-3203</ISSN>
+		<titulo>IEEE Transactions on Industrial Informatics</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1556-6013</ISSN>
+		<titulo>IEEE Transactions on Information Forensics and Security</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1089-7771</ISSN>
+		<titulo>IEEE Transactions on Information Technology in Biomedicine</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0018-9456</ISSN>
+		<titulo>IEEE Transactions on Instrumentation and Measurement</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1041-4347</ISSN>
+		<titulo>IEEE Transactions on Knowledge and Data Engineering (Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0018-9464</ISSN>
+		<titulo>IEEE Transactions on Magnetics</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1536-1233</ISSN>
+		<titulo>IEEE Transactions on Mobile Computing</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1045-9227</ISSN>
+		<titulo>IEEE Transactions on Neural Networks</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2162-237X</ISSN>
+		<titulo>IEEE Transactions on Neural Networks and Learning Systems</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0018-9499</ISSN>
+		<titulo>IEEE Transactions on Nuclear Science</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1045-9219</ISSN>
+		<titulo>IEEE Transactions on Parallel and Distributed Systems (Print)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0162-8828</ISSN>
+		<titulo>IEEE Transactions on Pattern Analysis and Machine Intelligence</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0885-8977</ISSN>
+		<titulo>IEEE Transactions on Power Delivery</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0885-8950</ISSN>
+		<titulo>IEEE Transactions on Power Systems</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1552-3098</ISSN>
+		<titulo>IEEE Transactions on Robotics</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0098-5589</ISSN>
+		<titulo>IEEE Transactions on Software Engineering</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1083-4427</ISSN>
+		<titulo>IEEE Transactions on Systems, Man and Cybernetics. Part A. Systems and Humans</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1083-4419</ISSN>
+		<titulo>IEEE Transactions on Systems, Man and Cybernetics. Part B. Cybernetics</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1063-8210</ISSN>
+		<titulo>IEEE Transactions on Very Large Scale Integration (VLSI) Systems (Print)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1077-2626</ISSN>
+		<titulo>IEEE Transactions on Visualization and Computer Graphics</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1536-1284</ISSN>
+		<titulo>IEEE Wireless Communications</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2162-2337</ISSN>
+		<titulo>IEEE Wireless Communications Letters</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1932-8540</ISSN>
+		<titulo>IEEE-RITA</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1545-5963</ISSN>
+		<titulo>IEEE/ACM Transactions on Computational Biology and Bioinformatics (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1063-6692</ISSN>
+		<titulo>IEEE/ACM Transactions on Networking (Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1751-8687</ISSN>
+		<titulo>IET Generation, Transmission &amp; Distribution (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1751-8806</ISSN>
+		<titulo>IET Software (Print)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1091-9856</ISSN>
+		<titulo>INFORMS Journal on Computing</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1808-5377</ISSN>
+		<titulo>Infodesign (SBDI. Online)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1648-5831</ISSN>
+		<titulo>Informatics in Education</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2078-2489</ISSN>
+		<titulo>Information</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2166-3033</ISSN>
+		<titulo>Information &amp; Culture</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1566-2535</ISSN>
+		<titulo>Information Fusion (Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1570-1255</ISSN>
+		<titulo>Information Polity</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0306-4573</ISSN>
+		<titulo>Information Processing &amp; Management</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0020-0190</ISSN>
+		<titulo>Information Processing Letters (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0020-0255</ISSN>
+		<titulo>Information Sciences</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0306-4379</ISSN>
+		<titulo>Information Systems (Oxford)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0950-5849</ISSN>
+		<titulo>Information and Software Technology</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1369-118X</ISSN>
+		<titulo>Information, Communication &amp; Society</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0988-3754</ISSN>
+		<titulo>Informatique Théorique et Applications (Imprimé)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0718-3291</ISSN>
+		<titulo>Ingeniare. Revista Chilena de Ingeniería (Impresa)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1633-1311</ISSN>
+		<titulo>Ingénierie Des Systemes D'Information</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1069-2509</ISSN>
+		<titulo>Integrated Computer-Aided Engineering</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1757-9694</ISSN>
+		<titulo>Integrative Biology: a new journal of quantitative biosciences from nano to macro</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1079-8587</ISSN>
+		<titulo>Intelligent Automation and Soft Computing</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1088-467X</ISSN>
+		<titulo>Intelligent Data Analysis (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1679-9844</ISSN>
+		<titulo>InterScience Place</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0953-5438</ISSN>
+		<titulo>Interacting with Computers</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1072-5520</ISSN>
+		<titulo>Interactions (New York, N.Y.)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2040-7939</ISSN>
+		<titulo>International Journal for Numerical Methods in Biomedical Engineering (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0271-2091</ISSN>
+		<titulo>International Journal for Numerical Methods in Fluids (Print)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1938-0194</ISSN>
+		<titulo>International Journal of  Web Portals</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2251-6379</ISSN>
+		<titulo>International Journal of Advanced Computer Science</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1947-3206</ISSN>
+		<titulo>International Journal of Agricultural and Environmental Information Systems</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0888-613X</ISSN>
+		<titulo>International Journal of Approximate Reasoning</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0974-0635</ISSN>
+		<titulo>International Journal of Artificial Intelligence</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1744-5493</ISSN>
+		<titulo>International Journal of Bioinformatics Research and Applications (Online)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1744-5485</ISSN>
+		<titulo>International Journal of Bioinformatics Research and Applications (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1743-8187</ISSN>
+		<titulo>International Journal of Business Intelligence and Data Mining</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1741-8763</ISSN>
+		<titulo>International Journal of Business Process Integration and Management (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2326-7550</ISSN>
+		<titulo>International Journal of Cloud Computing</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1740-2085</ISSN>
+		<titulo>International Journal of Collaborative Enterprise</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1099-1131</ISSN>
+		<titulo>International Journal of Communication Systems (Online)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0975-8887</ISSN>
+		<titulo>International Journal of Computer Applications</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1741-5047</ISSN>
+		<titulo>International Journal of Computer Applications in Technology</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2316-9915</ISSN>
+		<titulo>International Journal of Computer Architecture Education</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2150-7988</ISSN>
+		<titulo>International Journal of Computer Information Systems and Industrial Management Applications</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0975-2293</ISSN>
+		<titulo>International Journal of Computer Networks and Communications</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0974-9322</ISSN>
+		<titulo>International Journal of Computer Networks and Communications</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0976-2760</ISSN>
+		<titulo>International Journal of Computer Science and Engineering Survey</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1947-5500</ISSN>
+		<titulo>International Journal of Computer Science and Information Security</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0975-3826</ISSN>
+		<titulo>International Journal of Computer Science and Information Technology (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0975-4660</ISSN>
+		<titulo>International Journal of Computer Science and Information Technology (Print)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1738-7906</ISSN>
+		<titulo>International Journal of Computer Science and Network Security</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2168-4960</ISSN>
+		<titulo>International Journal of Control Science and Engineering</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1759-1163</ISSN>
+		<titulo>International Journal of Data Mining, Modelling and Management</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1548-3924</ISSN>
+		<titulo>International Journal of Data Warehousing and Mining</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1550-1329</ISSN>
+		<titulo>International Journal of Distributed Sensor Networks</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1550-1477</ISSN>
+		<titulo>International Journal of Distributed Sensor Networks (Online)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1947-3532</ISSN>
+		<titulo>International Journal of Distributed Systems and Technologies</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0951-354X</ISSN>
+		<titulo>International Journal of Educational Management</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0142-0615</ISSN>
+		<titulo>International Journal of Electrical Power &amp; Energy Systems</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2156-8359</ISSN>
+		<titulo>International Journal of Geosciences</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1448-5869</ISSN>
+		<titulo>International Journal of Hybrid Intelligent Systems</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0219-4678</ISSN>
+		<titulo>International Journal of Image and Graphics</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1935-5688</ISSN>
+		<titulo>International Journal of Information Systems in the Service Sector</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1550-1876</ISSN>
+		<titulo>International Journal of Information and Communication Technology Education</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1756-7025</ISSN>
+		<titulo>International Journal of Information and Decision Sciences</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1349-4198</ISSN>
+		<titulo>International Journal of Innovative Computing, Information &amp; Control</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1947-8429</ISSN>
+		<titulo>International Journal of Knowledge Society Research</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1755-8255</ISSN>
+		<titulo>International Journal of Knowledge and Web Intelligence</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1477-8386</ISSN>
+		<titulo>International Journal of Learning Technology (Print)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1755-0653</ISSN>
+		<titulo>International Journal of Medical Engineering and Informatics</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1386-5056</ISSN>
+		<titulo>International Journal of Medical Informatics</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1744-2621</ISSN>
+		<titulo>International Journal of Metadata, Semantics and Ontologies (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2107-6839</ISSN>
+		<titulo>International Journal of Metrology and Quality Engineering</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1937-9412</ISSN>
+		<titulo>International Journal of Mobile Computing and Multimedia Communications</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2010-3697</ISSN>
+		<titulo>International Journal of Modeling and Optimization</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0129-1831</ISSN>
+		<titulo>International Journal of Modern Physics C</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1947-928X</ISSN>
+		<titulo>International Journal of Natural Computing Research</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2185-2839</ISSN>
+		<titulo>International Journal of Networking and Computing</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1861-2121</ISSN>
+		<titulo>International Journal of Online Engineering</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0885-7458</ISSN>
+		<titulo>International Journal of Parallel Programming</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1744-5760</ISSN>
+		<titulo>International Journal of Parallel, Emergent and Distributed Systems (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0218-0014</ISSN>
+		<titulo>International Journal of Pattern Recognition and Artificial Intelligence</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1742-7371</ISSN>
+		<titulo>International Journal of Pervasive Computing and Communications (Print)</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0925-5273</ISSN>
+		<titulo>International Journal of Production Economics</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0020-7543</ISSN>
+		<titulo>International Journal of Production Research (Print)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0219-7499</ISSN>
+		<titulo>International Journal of Quantum Information</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1687-7195</ISSN>
+		<titulo>International Journal of Reconfigurable Computing (Print)</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1049-8923</ISSN>
+		<titulo>International Journal of Robust and Nonlinear Control (Print)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1738-9976</ISSN>
+		<titulo>International Journal of Security and Its Applications</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0218-1940</ISSN>
+		<titulo>International Journal of Software Engineering and Knowledge Engineering</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1464-5319</ISSN>
+		<titulo>International Journal of Systems Science (Online)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2005-4246</ISSN>
+		<titulo>International Journal of U- and E-Service, Science and Technology</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0975-8992</ISSN>
+		<titulo>International Journal of UbiComp</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0218-4885</ISSN>
+		<titulo>International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0219-6913</ISSN>
+		<titulo>International Journal of Wavelets, Multiresolution and Information Processing</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1477-8394</ISSN>
+		<titulo>International Journal of Web Based Communities (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1476-1289</ISSN>
+		<titulo>International Journal of Web Engineering and Technology</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1545-7362</ISSN>
+		<titulo>International Journal of Web Services Research</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1741-1106</ISSN>
+		<titulo>International Journal of Web and Grid Services (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2330-1007</ISSN>
+		<titulo>International Journal of Wireless Communications and Mobile Computing</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1068-9605</ISSN>
+		<titulo>International Journal of Wireless Information Networks</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1433-2833</ISSN>
+		<titulo>International Journal on Document Analysis and Recognition (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0969-6016</ISSN>
+		<titulo>International Transactions in Operational Research</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1942-2679</ISSN>
+		<titulo>International journal on advances in intelligent systems.</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1547-5867</ISSN>
+		<titulo>Issues in Informing Science &amp; Information Technology Education (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1607-9264</ISSN>
+		<titulo>J INTERNET TECHNOL</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2175-9146</ISSN>
+		<titulo>Journal of Aerospace Technology and Management (Online)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2158-5644</ISSN>
+		<titulo>Journal of Applied Analysis and Computation</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1110-757X</ISSN>
+		<titulo>Journal of Applied Mathematics</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0266-4763</ISSN>
+		<titulo>Journal of Applied Statistics</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2155-9597</ISSN>
+		<titulo>Journal of Bacteriology &amp; Parasitology</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0219-7200</ISSN>
+		<titulo>Journal of Bioinformatics and Computational Biology (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1937-6871</ISSN>
+		<titulo>Journal of Biomedical Science and Engineering</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2153-0378</ISSN>
+		<titulo>Journal of Biophysical Chemistry (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1532-429X</ISSN>
+		<titulo>Journal of Cardiovascular Magnetic Resonance</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1549-960X</ISSN>
+		<titulo>Journal of Chemical Information and Modeling (Online)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1549-9618</ISSN>
+		<titulo>Journal of Chemical Theory and Computation</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1382-6905</ISSN>
+		<titulo>Journal of Combinatorial Optimization</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0095-8956</ISSN>
+		<titulo>Journal of Combinatorial Theory. Series B (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1548-7709</ISSN>
+		<titulo>Journal of Communication and Computer</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1980-6604</ISSN>
+		<titulo>Journal of Communication and Information Systems (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1229-2370</ISSN>
+		<titulo>Journal of Communications and Networks (Seoul. Print)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2051-1310</ISSN>
+		<titulo>Journal of Complex Networks</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1066-5277</ISSN>
+		<titulo>Journal of Computational Biology</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0192-8651</ISSN>
+		<titulo>Journal of Computational Chemistry</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0021-9991</ISSN>
+		<titulo>Journal of Computational Physics (Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1546-1955</ISSN>
+		<titulo>Journal of Computational and Theoretical Nanoscience</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1000-9000</ISSN>
+		<titulo>Journal of Computer Science and Technology</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1666-6038</ISSN>
+		<titulo>Journal of Computer Science and Technology (La Plata. En línea)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1549-3636</ISSN>
+		<titulo>Journal of Computer Sciences</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1090-2724</ISSN>
+		<titulo>Journal of Computer and System Sciences (Online)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0022-0000</ISSN>
+		<titulo>Journal of Computer and System Sciences (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1530-9827</ISSN>
+		<titulo>Journal of Computing and Information Science in Engineering</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2195-3899</ISSN>
+		<titulo>Journal of Control, Automation and Electrical Systems</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0944-6532</ISSN>
+		<titulo>Journal of Convex Analysis</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1618-727X</ISSN>
+		<titulo>Journal of Digital Imaging (Internet)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1570-8667</ISSN>
+		<titulo>Journal of Discrete Algorithms (Print)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1176-3647</ISSN>
+		<titulo>Journal of Educational Technology &amp; Society</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0923-8174</ISSN>
+		<titulo>Journal of Electronic Testing</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1573-0727</ISSN>
+		<titulo>Journal of Electronic Testing (Dordrecht. Online)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1798-0461</ISSN>
+		<titulo>Journal of Emerging Technologies in Web Intelligence</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0022-0833</ISSN>
+		<titulo>Journal of Engineering Mathematics</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1972-5787</ISSN>
+		<titulo>Journal of Formalized Reasoning</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0925-5001</ISSN>
+		<titulo>Journal of Global Optimization</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1573-2916</ISSN>
+		<titulo>Journal of Global Optimization (Dordrecht. Online)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0364-9024</ISSN>
+		<titulo>Journal of Graph Theory (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1570-7873</ISSN>
+		<titulo>Journal of Grid Computing</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2175-4411</ISSN>
+		<titulo>Journal of Health Informatics</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1381-1231</ISSN>
+		<titulo>Journal of Heuristics</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1572-9397</ISSN>
+		<titulo>Journal of Heuristics (Dordrecht. Online)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1465-1734</ISSN>
+		<titulo>Journal of Hydroinformatics (Online)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1554-1010</ISSN>
+		<titulo>Journal of Information Assurance and Security</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2166-6261</ISSN>
+		<titulo>Journal of Information and Data Management</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1751-1577</ISSN>
+		<titulo>Journal of Informatrics</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0925-9902</ISSN>
+		<titulo>Journal of Intelligent Information Systems</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1869-0238</ISSN>
+		<titulo>Journal of Internet Services and Applications</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1867-4828</ISSN>
+		<titulo>Journal of Internet Services and Applications</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1465-363X</ISSN>
+		<titulo>Journal of Logic and Computation (Online)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0022-247X</ISSN>
+		<titulo>Journal of Mathematical Analysis and Applications (Print)</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0924-9907</ISSN>
+		<titulo>Journal of Mathematical Imaging and Vision</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1573-7683</ISSN>
+		<titulo>Journal of Mathematical Imaging and Vision (Dordrecht. Online)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0022-2488</ISSN>
+		<titulo>Journal of Mathematical Physics</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0022-2623</ISSN>
+		<titulo>Journal of Medicinal Chemistry</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1516-7399</ISSN>
+		<titulo>Journal of Microwaves and Optoelectronics</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2179-1074</ISSN>
+		<titulo>Journal of Microwaves, Optoelectronics and Electromagnetic Applications</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0047-259X</ISSN>
+		<titulo>Journal of Multivariate Analysis</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1084-8045</ISSN>
+		<titulo>Journal of Network and Computer Applications</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1064-7570</ISSN>
+		<titulo>Journal of Network and Systems Management</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1796-2056</ISSN>
+		<titulo>Journal of Networks</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0377-0257</ISSN>
+		<titulo>Journal of Non-Newtonian Fluid Mechanics (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0022-3239</ISSN>
+		<titulo>Journal of Optimization Theory and Applications</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1573-2878</ISSN>
+		<titulo>Journal of Optimization Theory and Applications (Dordrecht. Online)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0743-7315</ISSN>
+		<titulo>Journal of Parallel and Distributed Computing (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1520-6106</ISSN>
+		<titulo>Journal of Physical Chemistry. B</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1742-6596</ISSN>
+		<titulo>Journal of Physics. Conference Series (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1874-3919</ISSN>
+		<titulo>Journal of Proteomics (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1861-8200</ISSN>
+		<titulo>Journal of Real-Time Image Processing (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1443-458X</ISSN>
+		<titulo>Journal of Research and Practice in Information Technology</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1094-6705</ISSN>
+		<titulo>Journal of Service Research</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1939-8115</ISSN>
+		<titulo>Journal of Signal Processing Systems for Signal, Image, and Video Technology (Online)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1796-217X</ISSN>
+		<titulo>Journal of Software</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2195-1721</ISSN>
+		<titulo>Journal of Software Engineering Research and Development</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1945-3116</ISSN>
+		<titulo>Journal of Software Engineering and Applications (print)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1040-550X</ISSN>
+		<titulo>Journal of Software Maintenance</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0022-4715</ISSN>
+		<titulo>Journal of Statistical Physics</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0963-8687</ISSN>
+		<titulo>Journal of Strategic Information Systems</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1383-7621</ISSN>
+		<titulo>Journal of Systems Architecture</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1678-4804</ISSN>
+		<titulo>Journal of The Brazilian Computer Society (Online)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2238-1031</ISSN>
+		<titulo>Journal of Transport Literature</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0948-6968</ISSN>
+		<titulo>Journal of Universal Computer Science (Online)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1047-3203</ISSN>
+		<titulo>Journal of Visual Communication and Image Representation (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1045-926X</ISSN>
+		<titulo>Journal of Visual Languages and Computing</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1540-9589</ISSN>
+		<titulo>Journal of Web Engineering</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1570-8268</ISSN>
+		<titulo>Journal of Web Semantics</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1532-5415</ISSN>
+		<titulo>Journal of the American Geriatrics Society</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1532-2882</ISSN>
+		<titulo>Journal of the American Society for Information Science and Technology (Print)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0104-6500</ISSN>
+		<titulo>Journal of the Brazilian Computer Society (Impresso)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0160-5682</ISSN>
+		<titulo>Journal of the Operational Research Society</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1383-469X</ISSN>
+		<titulo>Journal on Special Topics in Mobile Networks and Applications</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1469-8005</ISSN>
+		<titulo>Knowledge Engineering Review (Online)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0943-7444</ISSN>
+		<titulo>Knowledge Organization</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0219-3116</ISSN>
+		<titulo>Knowledge and Information Systems (electronic resource)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0950-7051</ISSN>
+		<titulo>Knowledge-Based Systems</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0743-7463</ISSN>
+		<titulo>Langmuir</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0169-0965</ISSN>
+		<titulo>Language and Cognitive Processes (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1676-2789</ISSN>
+		<titulo>Learning and Nonlinear Models</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1865-1348</ISSN>
+		<titulo>Lecture Notes in Business Information Processing</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0302-9743</ISSN>
+		<titulo>Lecture Notes in Computer Science</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1367-0751</ISSN>
+		<titulo>Logic Journal of the IGPL (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1651-2022</ISSN>
+		<titulo>Logopedics, Phoniatrics and Vocology</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0960-1295</ISSN>
+		<titulo>MSCS. Mathematical Structures in Computer Science (Print)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0885-6125</ISSN>
+		<titulo>Machine Learning</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1432-1769</ISSN>
+		<titulo>Machine Vision and Applications (Internet)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1475-2875</ISSN>
+		<titulo>Malaria Journal (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1516-1439</ISSN>
+		<titulo>Materials Research (São Carlos. Impresso)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0255-5476</ISSN>
+		<titulo>Materials Science Forum</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1024-123X</ISSN>
+		<titulo>Mathematical Problems in Engineering (Print)</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0025-5610</ISSN>
+		<titulo>Mathematical Programming</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0895-7177</ISSN>
+		<titulo>Mathematical and Computer Modelling</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1134-5632</ISSN>
+		<titulo>Mathware &amp; Soft Computing</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0263-2241</ISSN>
+		<titulo>Measurement (London. Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1980-556X</ISSN>
+		<titulo>Mediação (UEG. Pires do Rio)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0140-0118</ISSN>
+		<titulo>Medical &amp; Biological Engineering &amp; Computing</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1361-8415</ISSN>
+		<titulo>Medical Image Analysis (Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1573-4064</ISSN>
+		<titulo>Medicinal Chemistry (Hilversum)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1054-2523</ISSN>
+		<titulo>Medicinal Chemistry Research (Print)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0882-4010</ISSN>
+		<titulo>Microbial Pathogenesis</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0026-2714</ISSN>
+		<titulo>Microelectronics and Reliability</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0141-9331</ISSN>
+		<titulo>Microprocessors and Microsystems</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1431-9276</ISSN>
+		<titulo>Microscopy and Microanalysis (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0895-2477</ISSN>
+		<titulo>Microwave and Optical Technology Letters (Print)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1572-8153</ISSN>
+		<titulo>Mobile Networks and Applications</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1742-206X</ISSN>
+		<titulo>Molecular Biosystems (Print)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0894-0282</ISSN>
+		<titulo>Molecular Plant-Microbe Interactions</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0885-3185</ISSN>
+		<titulo>Movement Disorders</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0923-6082</ISSN>
+		<titulo>Multidimensional Systems and Signal Processing</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1380-7501</ISSN>
+		<titulo>Multimedia Tools and Applications</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1567-7818</ISSN>
+		<titulo>Natural Computing</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1573-0840</ISSN>
+		<titulo>Natural Hazards (Dordrecht. Online)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1351-3249</ISSN>
+		<titulo>Natural Language Engineering (Print)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1552-4450</ISSN>
+		<titulo>Nature Chemical Biology</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2041-1723</ISSN>
+		<titulo>Nature Communications</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0028-3045</ISSN>
+		<titulo>Networks (New York, N.Y. Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0941-0643</ISSN>
+		<titulo>Neural Computing &amp; Applications (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0893-6080</ISSN>
+		<titulo>Neural Networks</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0925-2312</ISSN>
+		<titulo>Neurocomputing (Amsterdam)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1053-8119</ISSN>
+		<titulo>Neuroimage (Orlando, Fla. Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2175-0491</ISSN>
+		<titulo>Novos Estudos Jurídicos (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0211-2124</ISSN>
+		<titulo>Novática</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1017-1398</ISSN>
+		<titulo>Numerical Algorithms</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1475-2891</ISSN>
+		<titulo>Nutrition Journal</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1676-4285</ISSN>
+		<titulo>Online Brazilian Journal of Nursing</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2164-3024</ISSN>
+		<titulo>Open Journal of Radiology</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0163-5980</ISSN>
+		<titulo>Operating Systems Review</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0167-6377</ISSN>
+		<titulo>Operations Research Letters</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1573-4277</ISSN>
+		<titulo>Optical Switching and Networking (Print)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1029-4945</ISSN>
+		<titulo>Optimization (Online)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0233-1934</ISSN>
+		<titulo>Optimization (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1862-4472</ISSN>
+		<titulo>Optimization Letters (Print)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0167-8094</ISSN>
+		<titulo>Order (Dordrecht)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1355-7718</ISSN>
+		<titulo>Organised Sound (Print)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1553-7358</ISSN>
+		<titulo>PLOS Computational Biology (Online)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1935-2735</ISSN>
+		<titulo>PLoS Neglected Tropical Diseases (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0167-8191</ISSN>
+		<titulo>Parallel Computing</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1433-755X</ISSN>
+		<titulo>Pattern Analysis and Applications</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0031-3203</ISSN>
+		<titulo>Pattern Recognition</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0167-8655</ISSN>
+		<titulo>Pattern Recognition Letters</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0166-5316</ISSN>
+		<titulo>Performance Evaluation</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1519-0501</ISSN>
+		<titulo>Pesquisa Brasileira em Odontopediatria e Clínica Integrada (Impresso)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0101-7438</ISSN>
+		<titulo>Pesquisa Operacional (Impresso)</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1387-974X</ISSN>
+		<titulo>Photonic Network Communications</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2190-7439</ISSN>
+		<titulo>Photonic Sensors (Online)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0378-4371</ISSN>
+		<titulo>Physica. A (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1550-2376</ISSN>
+		<titulo>Physical Review E (Statistical, Nonlinear, and Soft Matter Physics)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0031-9007</ISSN>
+		<titulo>Physical Review Letters (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1094-1622</ISSN>
+		<titulo>Physical Review. A, Atomic, Molecular, and Optical Physics (Online)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0103-4138</ISSN>
+		<titulo>Planejamento e Politicas Publicas</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1932-6203</ISSN>
+		<titulo>Plos One</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0032-4728</ISSN>
+		<titulo>Population Studies</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1517-0306</ISSN>
+		<titulo>Principia (João Pessoa)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1877-0509</ISSN>
+		<titulo>Procedia Computer Science</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2212-0173</ISSN>
+		<titulo>Procedia Technology</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1877-0428</ISSN>
+		<titulo>Procedia: Social and Behavioral Sciences</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0100-4042</ISSN>
+		<titulo>Química Nova (Impresso)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1808-0936</ISSN>
+		<titulo>RBC. Revista Brasileira de Cartografia (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1806-8405</ISSN>
+		<titulo>RBPG. Revista Brasileira de Pós-Graduação</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1981-6278</ISSN>
+		<titulo>RECIIS. Revista Eletrônica de Comunicação, Informação &amp; Inovação em Saúde (Edição em Português. Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2177-8736</ISSN>
+		<titulo>REGE Revista de Gestao</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1679-1916</ISSN>
+		<titulo>RENOTE. Revista Novas Tecnologias na Educação</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1677-3071</ISSN>
+		<titulo>RESI : Revista Eletrônica de Sistemas de Informação</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0922-6443</ISSN>
+		<titulo>Real-Time Systems</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1984-0179</ISSN>
+		<titulo>Realidade Virtual</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0951-8320</ISSN>
+		<titulo>Reliability Engineering &amp; Systems Safety</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1432-010X</ISSN>
+		<titulo>Requirements Engineering</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0947-3602</ISSN>
+		<titulo>Requirements Engineering (London. Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0301-4207</ISSN>
+		<titulo>Resources Policy</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2179-684X</ISSN>
+		<titulo>Revista Brasileira de Administração Científica</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1980-9735</ISSN>
+		<titulo>Revista Brasileira de Agroecologia</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2176-6649</ISSN>
+		<titulo>Revista Brasileira de Computação Aplicada</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0100-5502</ISSN>
+		<titulo>Revista Brasileira de Educação Médica (Impresso)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1517-3151</ISSN>
+		<titulo>Revista Brasileira de Engenharia Biomédica (Impresso)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1809-239X</ISSN>
+		<titulo>Revista Brasileira de Gestão e Desenvolvimento Regional</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1414-5685</ISSN>
+		<titulo>Revista Brasileira de Informática na Educação</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1984-2961</ISSN>
+		<titulo>Revista Brasileira de Parasitologia Veterinária (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1982-6125</ISSN>
+		<titulo>Revista Brasileira de Pesquisa em Turismo</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1983-4217</ISSN>
+		<titulo>Revista Brasileira de Redes de Computadores e Sistemas Distribuídos</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2176-171X</ISSN>
+		<titulo>Revista EDaPECI: Educação a Distância e Práticas Educativas Comunicacionais e Interculturais</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2175-1846</ISSN>
+		<titulo>Revista Eletrônica Científica Inovação e Tecnologia</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0120-6230</ISSN>
+		<titulo>Revista Facultad de Ingeniería Universidad de Antioquia</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2237-0722</ISSN>
+		<titulo>Revista GEINTEC: gestao, inovacao e tecnologias</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2177-6652</ISSN>
+		<titulo>Revista Gestão &amp; Tecnologia</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1548-0992</ISSN>
+		<titulo>Revista IEEE América Latina</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1138-2783</ISSN>
+		<titulo>Revista Iberoamericana de Educación a Distancia</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1137-2729</ISSN>
+		<titulo>Revista Iberoamericana de Ingeniería Mecánica</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0120-0976</ISSN>
+		<titulo>Revista Interamericana de Bibliotecologia</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0213-1315</ISSN>
+		<titulo>Revista Internacional de Métodos Numéricos para Cálculo y Diseño en Ingeniería</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1695-288X</ISSN>
+		<titulo>Revista Latinoamericana de Tecnología Educativa</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2316-4522</ISSN>
+		<titulo>Revista Militar de Ciência e Tecnologia</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1809-3957</ISSN>
+		<titulo>Revista SODEBRAS</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1809-0761</ISSN>
+		<titulo>Revista Saúde.com</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0103-9989</ISSN>
+		<titulo>Revista USP</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1679-5954</ISSN>
+		<titulo>Revista da ABENO</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2175-5590</ISSN>
+		<titulo>Revista da Associação Mineira de Direito e Economia</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0080-6234</ISSN>
+		<titulo>Revista da Escola de Enfermagem da USP (Impresso)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0103-4308</ISSN>
+		<titulo>Revista de Informática Teórica e Aplicada (Impresso)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2175-2745</ISSN>
+		<titulo>Revista de Informática Teórica e Aplicada: RITA</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2236-9619</ISSN>
+		<titulo>Revista de RadioDifusão</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1981-4984</ISSN>
+		<titulo>Revista de Radiodifusão</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2237-5112</ISSN>
+		<titulo>Revista de Tecnologia da Informação e Comunicação</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1679-5350</ISSN>
+		<titulo>Revista de administração da Unimep</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1677-1060</ISSN>
+		<titulo>Revista do Ministério Público do Estado do Maranhão</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0100-6762</ISSN>
+		<titulo>Revista Árvore (Impresso)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0921-8890</ISSN>
+		<titulo>Robotics and Autonomous Systems (Print)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1980-5160</ISSN>
+		<titulo>S &amp; G. Sistemas &amp; Gestão</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1062-936X</ISSN>
+		<titulo>SAR and QSAR in Environmental Research (Print)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0103-759</ISSN>
+		<titulo>SBA. Sociedade Brasileira de Automática</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0895-4801</ISSN>
+		<titulo>SIAM Journal on Discrete Mathematics (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1052-6234</ISSN>
+		<titulo>SIAM Journal on Optimization (Print)</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1551-3688</ISSN>
+		<titulo>SIGBED Review</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1931-0145</ISSN>
+		<titulo>SIGKDD Explorations</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0163-5808</ISSN>
+		<titulo>SIGMOD Record</titulo>
+		<estrato>A1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0167-6423</ISSN>
+		<titulo>Science of Computer Programming (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0048-9697</ISSN>
+		<titulo>Science of the Total Environment</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0304-4238</ISSN>
+		<titulo>Scientia Horticulturae</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1808-2793</ISSN>
+		<titulo>Scientia Plena</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1588-2861</ISSN>
+		<titulo>Scientometrics (Online)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1939-0114</ISSN>
+		<titulo>Security and Communication Networks</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1679-0375</ISSN>
+		<titulo>Semina. Ciências Exatas e Tecnológicas (Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1424-8220</ISSN>
+		<titulo>Sensors (Basel)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0037-4466</ISSN>
+		<titulo>Siberian Mathematical Journal</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0165-1684</ISSN>
+		<titulo>Signal Processing (Print)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1863-1711</ISSN>
+		<titulo>Signal, Image and Video Processing (Internet)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2169-3285</ISSN>
+		<titulo>Social Networking</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1433-7479</ISSN>
+		<titulo>Soft Computing</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0163-5948</ISSN>
+		<titulo>Software Engineering Notes</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0963-9314</ISSN>
+		<titulo>Software Quality Journal</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1573-1367</ISSN>
+		<titulo>Software Quality Journal (Online)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0960-0833</ISSN>
+		<titulo>Software Testing, Verification &amp; Reliability</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1099-1689</ISSN>
+		<titulo>Software Testing, Verification and Reliability</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1619-1366</ISSN>
+		<titulo>Software and Systems Modeling (Print)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0038-0644</ISSN>
+		<titulo>Software, Practice &amp; Experience (Print)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1097-024X</ISSN>
+		<titulo>Software: Practice and Experience</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2154-2244</ISSN>
+		<titulo>Southwestern Journal of International Law</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2193-1801</ISSN>
+		<titulo>SpringerPlus</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1944-3277</ISSN>
+		<titulo>Standards in Genomic Sciences</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1572-3127</ISSN>
+		<titulo>Statistical Methodology</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1618-2510</ISSN>
+		<titulo>Statistical Methods &amp; Applications</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1860-949X</ISSN>
+		<titulo>Studies in Computational Intelligence (Print)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0926-9630</ISSN>
+		<titulo>Studies in Health Technology and Informatics</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2210-5379</ISSN>
+		<titulo>Sustainable Computing: Informatics and Systems</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1677-1966</ISSN>
+		<titulo>TEMA. Tendências em Matemática Aplicada e Computacional</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0040-1625</ISSN>
+		<titulo>Technological Forecasting &amp; Social Change</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2318-8839</ISSN>
+		<titulo>Tecnologias, Sociedade e Conhecimento</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1572-9451</ISSN>
+		<titulo>Telecommunication Systems</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1018-4864</ISSN>
+		<titulo>Telecommunications Systems</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0736-5853</ISSN>
+		<titulo>Telematics and Informatics</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1530-5627</ISSN>
+		<titulo>Telemedicine Journal and e-Health</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2177-6776</ISSN>
+		<titulo>Tendências e Técnicas em Realidade Virtual e Aumentada</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2179-8451</ISSN>
+		<titulo>Tendências em Matemática Aplicada e Computacional</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1415-837X</ISSN>
+		<titulo>Teoria e Prática da Educação</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1050-5164</ISSN>
+		<titulo>The Annals of Applied Probability</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1681-8997</ISSN>
+		<titulo>The Empirical Economics Letters</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1094-3420</ISSN>
+		<titulo>The International Journal of High Performance Computing Applications</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1989-1660</ISSN>
+		<titulo>The International Journal of Interactive Multimedia and Artificial Intelligence - IJIMAI</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1076-9757</ISSN>
+		<titulo>The Journal of Artificial Intelligence Research (Print)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0270-6474</ISSN>
+		<titulo>The Journal of Neuroscience</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1573-0484</ISSN>
+		<titulo>The Journal of Supercomputing (Dordrecht. Online)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0164-1212</ISSN>
+		<titulo>The Journal of Systems and Software</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1066-8888</ISSN>
+		<titulo>The VLDB Journal</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0178-2789</ISSN>
+		<titulo>The Visual Computer</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1432-2315</ISSN>
+		<titulo>The Visual Computer (Internet)</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0304-3975</ISSN>
+		<titulo>Theoretical Computer Science</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0300-483X</ISSN>
+		<titulo>Toxicology (Amsterdam)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1864-3027</ISSN>
+		<titulo>Transactions on Aspect-Oriented Software Development (Print)</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2161-3915</ISSN>
+		<titulo>Transactions on Emerging Telecommunications Technologies (Online)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1869-6015</ISSN>
+		<titulo>Transactions on Pattern Languages of Programming</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0041-1132</ISSN>
+		<titulo>Transfusion (Arlington, Va.)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1473-0502</ISSN>
+		<titulo>Transfusion and Apheresis Science</titulo>
+		<estrato>B4</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0968-090X</ISSN>
+		<titulo>Transportation Research. Part C, Emerging Technologies</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0301-679X</ISSN>
+		<titulo>Tribology International</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>0041-624X</ISSN>
+		<titulo>Ultrasonics (Guildford)</titulo>
+		<estrato>B3</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1615-5289</ISSN>
+		<titulo>Universal Access in the Information Society (Print)</titulo>
+		<estrato>B2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1982-2243</ISSN>
+		<titulo>Veredas (UFJF. Online)</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1530-8677</ISSN>
+		<titulo>Wireless Communications and Mobile Computing</titulo>
+		<estrato>B1</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1022-0038</ISSN>
+		<titulo>Wireless Networks</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1572-8196</ISSN>
+		<titulo>Wireless Networks (Online)</titulo>
+		<estrato>A2</estrato>
+	</periodico>
+	<periodico>
+		<ISSN>2161-6809</ISSN>
+		<titulo>World Journal of Nuclear Science and Technology</titulo>
+		<estrato>C </estrato>
+	</periodico>
+	<periodico>
+		<ISSN>1984-2902</ISSN>
+		<titulo>iSys: Revista Brasileira de Sistemas de Informação</titulo>
+		<estrato>B5</estrato>
+	</periodico>
+</periodicos2013>
