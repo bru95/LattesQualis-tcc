@@ -15,14 +15,14 @@
         background-color: #F5FFFA;
         border-radius: 10px;
     }
-    
+
     .input-group{
         margin-bottom: 10px;
         margin-top: 10px;
         margin-left: 40px;
         margin-right: 40px;
     }
-    
+
     #buttonLogin{
         margin-bottom: 20px;
         margin-top: 20px;
@@ -52,7 +52,7 @@
                         <input type="password" class="form-control" placeholder="siape" aria-describedby="sizing-addon2" name="senha" id="senha">
                     </div>
                     <div id="buttonLogin">
-                    <button type="submit" class="btn btn-default">Entrar</button>
+                        <button type="submit" class="btn btn-default">Entrar</button>
                     </div>
                 </form>
             </div>

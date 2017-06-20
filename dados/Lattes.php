@@ -14,6 +14,12 @@ class Lattes {
     function Lattes() {
         $this->dao = new LattesDAO();
     }
+    
+    function primeiroAcesso(){
+        if($this->dao->verificaLattesMongo() == 0){
+            $this->insereLattes("../dadosMongo/lattes/");
+        }
+    }
 
     /**
      * Insere arquivos lattes na base de dados

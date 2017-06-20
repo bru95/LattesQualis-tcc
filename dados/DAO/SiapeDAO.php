@@ -12,22 +12,22 @@ class SiapeDAO {
     function SiapeDAO() {
         $this->dao = new DAO();
     }
+    
+    function primeiroAcesso(){
+        if(sizeof(json_decode($this->dao->select("siape",[],[]))) == 0){
+            $this->insereSiapes();
+        }
+    }
 
     function insereSiapes() {
-        $xml = simplexml_load_file("./dadosMongo/siape/siape.xml");
+        $xml = simplexml_load_file("../dadosMongo/siape/siape.xml");
         foreach ($xml->docente as $docente) {
             $nome = explode(" ", $docente->nome);
             $login = $this->removeAcento($nome[0] . $nome[sizeof($nome) - 1]);
             $nomeAcento = $this->removeAcento($docente->nome);
-            $this->insereMongo(['siape' => "$docente->siape", 'nome' => "$nomeAcento", 'login' => "$login"]);
+            $this->dao->insereUmDoc("siape",['siape' => "$docente->siape", 'nome' => "$nomeAcento", 'login' => "$login"]);
         }
-    }
-
-    function insereMongo($dados) {
-        $manager = new MongoDB\Driver\Manager("mongodb://localhost:27017");
-        $bulk = new MongoDB\Driver\BulkWrite;
-        $bulk->insert($dados);
-        $manager->executeBulkWrite("tccBruna.siape", $bulk);
+        $this->dao->insereUmDoc("ppgc",['login' => "PPGC", 'senha' => "ppgc"]);
     }
 
     /**

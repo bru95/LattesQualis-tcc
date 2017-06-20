@@ -89,5 +89,12 @@ class LattesDAO {
         ];
         return $this->dao->select($this->colecao, $filter, $options);
     }
+    
+    function verificaLattesMongo(){
+        $filter = [];
+        $options = [];
+        $rows = $this->dao->select($this->colecao, $filter, $options);
+        return sizeof(json_decode($rows));
+    }
 
 }

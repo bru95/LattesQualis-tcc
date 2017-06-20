@@ -79,5 +79,25 @@ class QualisDAO {
                 'B3' => $b3, 'B4' => $b4, 'B5' => $b5, 'orientacoes' => $orientacoes,]];
         $this->dao->update("pesoQualis", $filter, $options);
     }
+    
+    function inserePesosQualis($a1, $a2, $b1, $b2, $b3, $b4, $b5, $orientacoes){
+        $dados = ['A1' => $a1, 'A2' => $a2, 'B1' => $b1, 'B2' => $b2,
+                'B3' => $b3, 'B4' => $b4, 'B5' => $b5, 'orientacoes' => $orientacoes];
+        $this->dao->insereUmDoc("pesoQualis", $dados);
+    }
+
+    function verificaQualisMongo() {
+        $filter = [];
+        $options = [];
+        $rows = $this->dao->select($this->colecao, $filter, $options);
+        return sizeof(json_decode($rows));
+    }
+    
+    function verificaPesosQualisMongo() {
+        $filter = [];
+        $options = [];
+        $rows = $this->dao->select("pesoQualis", $filter, $options);
+        return sizeof(json_decode($rows));
+    }
 
 }

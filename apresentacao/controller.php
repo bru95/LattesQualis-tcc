@@ -198,5 +198,9 @@ class controller {
         $this->lattes->removeColecaoLattes();
         $this->lattes->insereLattes("../dadosMongo/lattes/");
     }
+    function dadosPrimeiroAcesso(){
+        $this->lattes-> primeiroAcesso();
+        $this->qualis->primeiroAcesso();
+    }
 
 }
