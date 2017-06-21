@@ -127,23 +127,31 @@ class Qualis {
         } else {
             $doc = "conferencias2013_2016";
         }
-        $lev = -1;
-        $index = -1;
-        for ($i = 0; $i < sizeof($this->conferencias["$doc"]); $i++) {
-            $aux = levenshtein($conf, $this->conferencias["$doc"][$i]['conferencia']);
-            if ($lev < 0 || $aux < $lev) {
-                $lev = $aux;
-                $index = $i;
-            }
-        }
-        $simLev = 1 - ($lev / (max(strlen($conf), strlen($this->conferencias["$doc"][$index]['conferencia']))));
+        $dados = $this->distLevenshtein($conf, $doc);
+        $simLev = 1 - ($dados["lev"] / (max(strlen($conf), strlen($this->conferencias["$doc"][$dados["index"]]['conferencia']))));
         if ($simLev > 0.40) {
-            $retorno['estrato'] = $this->conferencias["$doc"][$index]['estrato'];
-            $retorno['evento'] = $this->conferencias["$doc"][$index]['conferencia'];
+            $retorno['estrato'] = $this->conferencias["$doc"][$dados["index"]]['estrato'];
+            $retorno['evento'] = $this->conferencias["$doc"][$dados["index"]]['conferencia'];
             return $retorno;
         } else {
             return null;
         }
+    }
+
+    function distLevenshtein($conf, $doc) {
+        $lev = -1;
+        $index = -1;
+        for ($i = 0; $i < sizeof($this->conferencias["$doc"]); $i++) {
+            $nome = levenshtein($conf, $this->conferencias["$doc"][$i]['conferencia']);
+            $sigla = levenshtein($conf, $this->conferencias["$doc"][$i]['sigla']);
+            if ($lev < 0 || min([$nome, $sigla]) < $lev) {
+                $lev = min([$nome, $sigla]);
+                $index = $i;
+            }
+        }
+        $retorno["lev"] = $lev;
+        $retorno["index"] = $index;
+        return $retorno;
     }
 
 }
