@@ -17,7 +17,7 @@ class Lattes {
     
     function primeiroAcesso(){
         if($this->dao->verificaLattesMongo() == 0){
-            $this->insereLattes("../dadosMongo/lattes/");
+            $this->processaLattes("../dadosMongo/lattes/");
         }
     }
 
@@ -25,7 +25,7 @@ class Lattes {
      * Insere arquivos lattes na base de dados
      * @param type $dir diretório dos arquivos .xml
      */
-    function insereLattes($dir) {
+    function processaLattes($dir) {
         $arquivos = scandir($dir);
         foreach ($arquivos as $key => $value) {
             if ($value != '.' && $value != '..') {

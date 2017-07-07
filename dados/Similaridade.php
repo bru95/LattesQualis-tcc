@@ -16,7 +16,7 @@ class Similaridade {
         $this->dao = new SimilaridadeDAO();
     }
     
-    function insereSimilar($conferencias){
+    function salvaSimilares($conferencias){
         foreach ($conferencias as $value) {
             $this->dao->insereSimilar($value['evento'], $value['estrato'], $value['ano']);
         }

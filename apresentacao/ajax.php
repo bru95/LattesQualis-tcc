@@ -32,7 +32,7 @@ switch ($acao) {
         echo $controller->alteraPesos($_POST['A1'], $_POST['A2'], $_POST['B1'], $_POST['B2'], $_POST['B3'], $_POST['B4'], $_POST['B5'], $_POST['orientacoes']);
         break;
     case "inserirSimilares":
-        $controller->insereSimilares($_POST['conferencias']);
+        $controller->armazenaSimilares($_POST['conferencias']);
         break;
     case "nomeProfessores":
         echo $controller->professores();

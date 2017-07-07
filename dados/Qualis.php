@@ -21,15 +21,15 @@ class Qualis {
 
     function primeiroAcesso() {
         if ($this->dao->verificaQualisMongo() == 0) {
-            $this->insereQualis("../dadosMongo/qualis/conferencias/", "evento");
-            $this->insereQualis("../dadosMongo/qualis/periodicos/", "periodico");
+            $this->leQualis("../dadosMongo/qualis/conferencias/", "evento");
+            $this->leQualis("../dadosMongo/qualis/periodicos/", "periodico");
         }
         if ($this->dao->verificaPesosQualisMongo() == 0) {
             $this->dao->inserePesosQualis(1, 0.85, 0.7, 0.5, 0.2, 0.1, 0.05, 0.3);
         }
     }
 
-    function insereQualis($dir, $nomeArray) {
+    function leQualis($dir, $nomeArray) {
         $arquivos = scandir($dir);
         foreach ($arquivos as $key => $value) {
             if ($value != '.' && $value != '..') {

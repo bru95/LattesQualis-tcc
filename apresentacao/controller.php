@@ -116,9 +116,9 @@ class controller {
         $this->qualis->updatePesos($a1, $a2, $b1, $b2, $b3, $b4, $b5, $orientacoes);
     }
 
-    function insereSimilares($eventos) {
+    function armazenaSimilares($eventos) {
         $conferencias = json_decode(json_encode($eventos), TRUE);
-        $this->similaridade->insereSimilar($conferencias);
+        $this->similaridade->salvaSimilares($conferencias);
     }
 
     function professores() {
@@ -196,7 +196,7 @@ class controller {
 
     function atualizarCurriculosLattes() {
         $this->lattes->removeColecaoLattes();
-        $this->lattes->insereLattes("../dadosMongo/lattes/");
+        $this->lattes->processaLattes("../dadosMongo/lattes/");
     }
     function dadosPrimeiroAcesso(){
         $this->lattes-> primeiroAcesso();
